@@ -29,4 +29,4 @@
 | 9  | 05        | 09           | StatefulWidget                                                                                                             | [Modul 09](https://docs.google.com/document/d/1Qpp7SaMbU_xlUwR5puSmzcHxQr9qS-eNy8Wqhxb7_qc/edit?usp=sharing) | [Repo 9](#) |
 | 10 | 06        | 10           | (isi topik modul 10) | [Modul 10](#) | [Repo 10](#) |
 | 11 | 07        | 11           | (isi topik modul 11) | [Modul 11](#) | [Repo 11](#) |
-| 12 | 08        | **UTS**     | **Ujian Tengah Semester** | **[UTS](#)** | **[Repo UTS](https://github.com/taqiyyahRusydiyyah/UTS_Mobile_Programming)** |
+| **12** | **08** | **UTS**     | **Ujian Tengah Semester** | **[UTS](https://docs.google.com/document/d/1RwuwAc1Xw9mG2dTN9uv-HjUwUEDfbGyPnYuwI2OALDo/edit?usp=sharing)** | **[Repo UTS](https://github.com/taqiyyahRusydiyyah/menu_coffe)** |
