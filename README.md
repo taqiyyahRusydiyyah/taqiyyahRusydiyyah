@@ -30,5 +30,5 @@
 | 10 | 06        | 10           | (isi topik modul 10) | [Modul 10](#) | [Repo 10](#) |
 | 11 | 07        | 11           | (isi topik modul 11) | [Modul 11](#) | [Repo 11](#) |
 | **12** | **08** | **UTS**     | **Ujian Tengah Semester** | **[UTS](https://docs.google.com/document/d/1RwuwAc1Xw9mG2dTN9uv-HjUwUEDfbGyPnYuwI2OALDo/edit?usp=sharing)** | **[Repo UTS](https://github.com/taqiyyahRusydiyyah/menu_coffe)** |
-| **13** | **16** | **UAS** | **Ujian Akhir Semester** | **[UAS](https://docs.google.com/document/...)** | **[Repo UAS](https://github.com/taqiyyahRusydiyyah/NAMA-REPO-UAS)** |
+| **13** | **16** | **UAS** | **Ujian Akhir Semester** | **[UAS](https://docs.google.com/document/...)** | **[Repo UAS]([https://github.com/taqiyyahRusydiyyah/NAMA-REPO-UAS](https://github.com/taqiyyahRusydiyyah/UAS-PRAK-MOBILE))** |
 
